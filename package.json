@@ -1,0 +1,28 @@
+{
+  "name": "base-hapi-ember",
+  "version": "0.0.0",
+  "description": "ember-hapi starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knupp15/base-Hapi-Ember.git"
+  },
+  "keywords": [
+    "base"
+  ],
+  "author": "TG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Knupp15/base-Hapi-Ember/issues"
+  },
+  "homepage": "https://github.com/Knupp15/base-Hapi-Ember#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
