@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Knupp15/base-Hapi-Ember.git"
+    "url": "git+https://github.com/TGarcia15/base-hapi-ember.git"
   },
   "keywords": [
     "base"
@@ -16,9 +16,9 @@
   "author": "TG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Knupp15/base-Hapi-Ember/issues"
+    "url": "https://github.com/TGarcia15/base-hapi-ember/issues"
   },
-  "homepage": "https://github.com/Knupp15/base-Hapi-Ember#readme",
+  "homepage": "https://github.com/TGarcia15/base-hapi-ember#readme",
   "dependencies": {
     "hapi": "^13.4.1"
   },
