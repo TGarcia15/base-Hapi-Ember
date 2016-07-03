@@ -1,0 +1,11 @@
+<nav class="toggle-menu">
+      		<div class="branding"><h1>Example App</h1></div><button {{action "close"}} class="button">dksjf</button>
+      		<ul class="{{if isOpen "none" "nav-menu"}}">
+        		<li>{{#link-to 'index'}}Home{{/link-to}}</li>
+				<li>{{#link-to 'about'}}About us{{/link-to}}</li>
+				<li>{{#link-to 'contacts'}}Contact us{{/link-to}}</li>
+				<li>{{#link-to 'grid'}}AG grid{{/link-to}}</li>
+      		</ul>
+      		{{yield}}12132
+    	</nav>
+{{yield}}
